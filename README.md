@@ -1,5 +1,11 @@
-[![165-Jilotepec.jpg](https://i.postimg.cc/Y0rSdDWm/165-Jilotepec.jpg)](https://postimg.cc/YGPk938p)
-[![imagen-2024-03-01-172815348.png](https://i.postimg.cc/52hNh2zJ/imagen-2024-03-01-172815348.png)](https://postimg.cc/YGPk938p)
+<p align="center">
+  <a href="https://postimg.cc/YGPk938p">
+    <img src="https://i.postimg.cc/Y0rSdDWm/165-Jilotepec.jpg" alt="Jilotepec">
+  </a>
+</p>
+
+<br></br>
+
 <h1>I'm name is Jennifer Guadalupe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h1>
 <p> 
   
