@@ -6,11 +6,17 @@
 
 <br></br>
 
-<h1>I'm name is Jennifer Guadalupe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h1>
-<p> 
-  
-[![tesji.png](https://i.postimg.cc/1tDWvfrd/tesji.png)](https://postimg.cc/cg4MH1j7) 
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jennifer Guadalupe
+</div>
+
+<div align="center">
+  <a href="https://postimg.cc/cg4MH1j7" target="_blank">
+    <img src="https://i.postimg.cc/1tDWvfrd/tesji.png" alt="tesji.png">
+  </a>
+</div>
+
+
 
 <h2>I am a student at the Jilotepec School of Higher Studies.</h2>
 
