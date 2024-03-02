@@ -22,8 +22,8 @@
 
 <p>
   <div align="center">  
-<a href="[https://www.linkedin.com/in/hgdsandakalum/](https://www.linkedin.com/in/jennifer-guadalupe-angeles-hernandez-5409492b7/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
-    <a href="https://www.instagram.com/_.sanda._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
+<a href="https://www.linkedin.com/in/hgdsandakalum/](https://www.linkedin.com/in/jennifer-guadalupe-angeles-hernandez-5409492b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
+    <a href="https://www.instagram.com/jey_jenny_angeles" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
     <a href="https://www.facebook.com/h.g.d.sandakalum" target="_blank"><img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/h.g.d.sandakalum)](https://www.facebook.com/h.g.d.sandakalum"></a>
     </div>
   </p>
