@@ -7,6 +7,9 @@
 <br></br>
 
 <div align="center">
+<h2>I am a student at the Jilotepec School of Higher Studies.</h2>
+</div>
+<div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jennifer Guadalupe
 </div>
 
@@ -15,11 +18,6 @@
     <img src="https://i.postimg.cc/1tDWvfrd/tesji.png" alt="tesji.png">
   </a>
 </div>
-
-
-
-<h2>I am a student at the Jilotepec School of Higher Studies.</h2>
-
 
 
 
