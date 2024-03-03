@@ -39,6 +39,9 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 [![Eclipse IDE](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2C2255)](https://www.eclipse.org/)
 
+## What I want to learn
+
+[![Blender-Logo.png](https://i.postimg.cc/d0kb1DqN/Blender-Logo.png)](https://postimg.cc/nsxRSF9q)
 ## Goals to fulfill  
 
 
